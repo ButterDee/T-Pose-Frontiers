@@ -1,4 +1,4 @@
-## T-Pose Frontiers Alpha Dev
+## T-Pose Frontiers AlphaDevKoko
 -Still in beta, needs more characters to be ruined >:)
 
--Sonic, Amy, Big, and Sage are currently affected I think
+-Sonic, Amy, Big, Sage, and the Koko are currently affected by the mod.
