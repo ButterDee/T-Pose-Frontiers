@@ -1,2 +1,10 @@
-add raw/character/big.pac
+add raw/character/kodamachild.pac
+add raw/character/kodamacommon.pac
+add raw/character/kodamadisciple.pac
+add raw/character/kodamaelder.pac
+add raw/character/kodamalover.pac
+add raw/character/kodamamother.pac
+add raw/character/kodamasoldier.pac
+add raw/character/kodamaster.pac
+add raw/character/kodamawarrior.pac
 add mod.ini
