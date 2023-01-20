@@ -1,2 +1,2 @@
+add raw/character/big.pac
 add mod.ini
-add T-Pose Amy/raw/character/amy.pac
