@@ -1,3 +1,1 @@
-add disk/mod.ini
-add disk/sage.pac
-add mod.ini
+add animationless sonic.pac 1/raw/character
