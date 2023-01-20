@@ -1,2 +1,2 @@
-add T-Pose Sage/raw/character/sage.pac
 add mod.ini
+add T-Pose Amy/raw/character/amy.pac
