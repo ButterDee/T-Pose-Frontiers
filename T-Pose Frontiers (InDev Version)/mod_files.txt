@@ -1,1 +1,2 @@
-add animationless Sonic.pac 1/raw/character/sonic.pac
+add T-Pose Sage/raw/character/sage.pac
+add mod.ini
