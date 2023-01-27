@@ -1,6 +1,8 @@
 ## T-Pose Frontiers (Release)
 -Full release is out!
 
+-WARNING: YOU HAVE TO MANUALLY INSTALL THIS UPDATE VIA MY GAMEBANANA PAGE, AND UNINSTALL THE PREVIOUS VERSION.
+
 -Sonic, Super Sonic, Amy, Knuckles, Tails, Sage, Big, the Koco, and the Titans are affected.
 
 -Fixed many softlocks galore! Even including one to where Sonic couldn't even fish.
